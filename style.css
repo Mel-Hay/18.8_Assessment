@@ -1,0 +1,19 @@
+form{
+   text-align: left;
+   display:flex;
+   flex-direction: column;
+   justify-content: space-between;
+   width: 100vw;
+    
+}
+label{
+    display: block;
+}
+input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.custom input{
+    height: 200px;
+}
